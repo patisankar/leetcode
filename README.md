@@ -1,6 +1,7 @@
 <h1 align="center"><b>LeetCode Ruby Solutions</b></h1>
 <h2 align='center' id="latest-solutions"><b>Latest Solutions</b></h2>
 </br>
+<hr>
 <table>
   <tr>
     <th>Date</th>
@@ -10,16 +11,17 @@
     <th>Topics</th>
   </tr>
   <tr>
-  <td align="center">March 22</td>
-  <td>557. <a href="https://leetcode.com/problems/reverse-words-in-a-string-iii/">Reverse String III</a></td>
-  <td align="center">$\text{\color{TealBlue}Easy}$</td>
-  <td align="center">
+    <td align="center">March 22</td>
+    <td>557. <a href="https://leetcode.com/problems/reverse-words-in-a-string-iii/">Reverse String III</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
        <a href="https://github.com/patisankar/leetcode/blob/main/solutions/string_reverse.rb">Two Point
-  </td>
-  <td align="center">
+    </td>
+    <td align="center">
       <a href="#two-pointers">Two Pointers</a>
-  </td>
-</tr>
+    </td>
+  </tr>
+</table>
 <hr>
 
 <details open><summary><h3 id="topics">Topics</h3></summary>
@@ -66,8 +68,6 @@
 </br>
 <hr>
 
-
-</table>
 </br>
 <hr>
 <details><summary><h3 id="array">Array</h3></summary>
