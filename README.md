@@ -14,12 +14,10 @@
   <td>557. <a href="https://leetcode.com/problems/reverse-words-in-a-string-iii/">Reverse String III</a></td>
   <td align="center">$\text{\color{TealBlue}Easy}$</td>
   <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/541.%20Reverse%20String%20II/ReverseStringII_StringBuilder.java">StringB
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/541.%20Reverse%20String%20II/ReverseStringII_TwoPointers.java">Two Point
+       <a href="https://github.com/patisankar/leetcode/blob/main/solutions/string_reverse.rb">Two Point
   </td>
   <td align="center">
-    <a href="#string">String</a>, 
-    <a href="#two-pointers">Two Pointers</a>
+      <a href="#two-pointers">Two Pointers</a>
   </td>
 </tr>
 
